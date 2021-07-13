@@ -19,7 +19,7 @@
 		}
 	],
 	"require": {
-		"php": ">=7.4.0",
+		"php": "^7.4",
 		"yiisoft/yii2": "*",
 		"yiisoft/yii2-composer": "*",
 		"mpdf/mpdf": "8.0.4"
